@@ -1,0 +1,3 @@
+[submodule "s32k344_rtd"]
+	path = s32k344_rtd
+	url = https://github.com/carloscn/s32k344_rtd.git
